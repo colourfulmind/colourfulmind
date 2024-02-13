@@ -25,7 +25,9 @@
 - 🔭 I’m currently studing programming at 21 School in Moscow.
 - 🌱 Exploring Golang and PostgreSQL.
 - 🤔 Spend my free time solving problems on Leetcode.
-- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vaersnill) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ek5584637@gmail.com) 
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vaersnill) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ek5584637@gmail.com)
+
+### :hammer_and_wrench: Languages and Tools:
 
 <!--
 **colourfulmind/colourfulmind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
