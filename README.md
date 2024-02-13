@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRneDRzYmVsNnVkdDE0MWU0aXFybDh3Y2U1dGFkdDg3bG1pM2RsaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4N99JtCB4RKJsqt6rJ/giphy.gif" width="100"/>
   
-  <div id="badges">
+  <div id="badges" padding="10px>
     <a href="https://t.me/vaersnill">
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
