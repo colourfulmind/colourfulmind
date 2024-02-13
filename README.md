@@ -5,12 +5,6 @@
 
   GO developer from Moscow
   <div id="badges">
-    <a href="https://t.me/vaersnill">
-      <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-    </a>
-    <a href="mailto:ek5584637@gmail.com">
-      <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
-    </a>
     <a href="https://leetcode.com/colourfulmind/">
       <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode Badge"/>
     </a>
@@ -26,6 +20,12 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+
+### About me:
+- 🔭 I’m currently studing programming at 21 School in Moscow.
+- 🌱 Exploring Golang and PostgreSQL.
+- 🤔 Spend my free time solving problems on Leetcode.
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/vaersnill) [![Gmail Badge](https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ek5584637@gmail.com) 
 
 <!--
 **colourfulmind/colourfulmind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
