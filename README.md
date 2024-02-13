@@ -7,7 +7,7 @@
     <a href="https://t.me/vaersnill">
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
-     <a href="ek5584637@gmail.com">
+     <a href="mailto:ek5584637@gmail.com">
       <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
     </a>
     <a href="https://leetcode.com/colourfulmind/">
