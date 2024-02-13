@@ -10,8 +10,11 @@
 
   📫 How to reach me:
   <div id="badges">
-     <a href="https://t.me/vaersnill">
+    <a href="https://t.me/vaersnill">
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+    </a>
+     <a href="ek5584637@gmail.com">
+      <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
     </a>
     <a href="www.linkedin.com/in/colourfulmind">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
