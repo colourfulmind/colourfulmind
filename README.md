@@ -7,9 +7,9 @@
     <p>Hi there</p>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  
+
+  📫 How to reach me:
   <div id="badges">
-    📫 How to reach me:
      <a href="https://t.me/vaersnill">
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
