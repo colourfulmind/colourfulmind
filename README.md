@@ -10,6 +10,9 @@
      <a href="ek5584637@gmail.com">
       <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
     </a>
+    <a href="https://leetcode.com/colourfulmind/">
+      <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode Badge"/>
+    </a>
     <a href="www.linkedin.com/in/colourfulmind">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
