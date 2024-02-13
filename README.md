@@ -3,12 +3,6 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRneDRzYmVsNnVkdDE0MWU0aXFybDh3Y2U1dGFkdDg3bG1pM2RsaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4N99JtCB4RKJsqt6rJ/giphy.gif" width="100"/>
 
-  <h1>
-    Hi there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-
-  📫 How to reach me:
   <div id="badges">
     <a href="https://t.me/vaersnill">
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
@@ -23,7 +17,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=colourfulmind&style=flat-square&color=blue" alt=""/>
 
-
+<h1>
+    Hi there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
 
 <!--
