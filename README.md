@@ -2,6 +2,7 @@
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRneDRzYmVsNnVkdDE0MWU0aXFybDh3Y2U1dGFkdDg3bG1pM2RsaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4N99JtCB4RKJsqt6rJ/giphy.gif" width="100"/>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
   <div id="badges">
     <a href="https://t.me/vaersnill">
