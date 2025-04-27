@@ -23,9 +23,7 @@
 </div>
 
 ### :woman_technologist: About Me:
-- 🔭 I’m currently studing programming at 21 School in Moscow.
-- 🌱 Exploring Golang and PostgreSQL.
-- 🤔 Spend my free time solving algorithmic problems.
+- 🔭 I’m currently working for Ozon Bank.
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vaersnill) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ek5584637@gmail.com)
 
 ### :hammer_and_wrench: Languages and Tools:
